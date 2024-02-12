@@ -42,7 +42,7 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://github.com/aakash-sharma25)
 
 <hr>
-<h3>Random Jokes</h3>
+<h3>Programming Jokes</h3>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ## 📊Github Stats
